@@ -25,7 +25,7 @@ generate 1-D spectral sparse signal
 ./2Dcase
 
 SHGD_2D.m
-SHGD algorithm for 2D case.
+ SHGD algorithm for 2D case.
 
 robust_recovery_2D_plot.m
 recover  a 2D spectral sparse signal  robustly with noise and make super-resolution in frequencies via MUSIC
