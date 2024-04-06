@@ -9,7 +9,7 @@ Current spectral compressed sensing methods via Hankel matrix completion employ 
 
 ###  Time comparisons
 
-### robust recovery  
+### Robust recovery  
 
 ## Citation
 If you find this code useful for your research, please consider citing:
