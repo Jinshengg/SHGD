@@ -11,6 +11,8 @@ Show some experiments in our paper.
 ###  Time comparisons
 ![](fig/Time_comparisons.png) 
 ### Robust recovery  
+<img src=fig/Time_comparisons.png width="100" height="30" align="middle" />
+
 
 ## Citation
 If you find this code useful for your research, please consider citing:
