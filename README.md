@@ -1,5 +1,5 @@
 # SHGD
-Symmetric projected gradient descent for spectral compressed sensing 
+Symmetric projected gradient descent (SHGD) for spectral compressed sensing 
 
 
 
