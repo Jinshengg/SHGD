@@ -26,7 +26,7 @@ If you find this code useful for your research, please consider citing:
   doi={10.1109/TSP.2024.3378004}}
 ```
 ## Code descriptions
-### main  
+### main, 1D case  
 demo.m  
 demo how to use SHGD , in 1-D signal case. 
 
