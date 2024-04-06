@@ -42,8 +42,7 @@ generate 1-D spectral sparse signal
 
 ./2Dcase
 
-SHGD_2D.m
-
+SHGD_2D.m 
 SHGD algorithm for 2D case.
 
 
