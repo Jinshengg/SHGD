@@ -11,7 +11,7 @@ Show some experiments in our paper.
 ###  Time comparisons
 ![](fig/Time_comparisons.png) 
 ### Robust recovery  
-<img src=fig/Time_comparisons.png width="800" height="600" align="center" />
+<img src=fig/Time_comparisons.png width="400" height="200" align="center" />
 
 
 ## Citation
