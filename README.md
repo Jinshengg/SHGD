@@ -18,7 +18,7 @@ If you find this code useful for your research, please consider citing:
   pages={1-16},
   keywords={Symmetric matrices;Compressed sensing;Matrix decomposition;Sparse matrices;Costs;Gradient methods;Convergence;Spectral compressed sensing;Hankel matrix completion;symmetric matrix factorization},
   doi={10.1109/TSP.2024.3378004}}
-
+```
 ## Code descriptions
 demo.m  
 demo how to use SHGD , in 1-D signal case. 
