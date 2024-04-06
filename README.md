@@ -7,7 +7,7 @@ Current spectral compressed sensing methods via Hankel matrix completion employ 
 ## Experiments   
 Show some experiments in our paper.  
 ### Phase transitions  
-!(fig/pst.png)
+![](fig/pst.png)
 ###  Time comparisons
 
 ### Robust recovery  
