@@ -26,6 +26,7 @@ If you find this code useful for your research, please consider citing:
   doi={10.1109/TSP.2024.3378004}}
 ```
 ## Code descriptions
+### main  
 demo.m  
 demo how to use SHGD , in 1-D signal case. 
 
@@ -44,7 +45,7 @@ FIHT algorithm, 1D case
 generate_signal_1D.m   
 generate 1-D spectral sparse signal
 
-./2Dcase  
+### ./2Dcase  
 
 SHGD_2D.m    
 SHGD algorithm for 2D case.
