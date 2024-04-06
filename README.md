@@ -1,6 +1,8 @@
 # SHGD
 Symmetric projected gradient descent (SHGD) for spectral compressed sensing 
 
+This is the code for "Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization"  
+by Jinsheng Li, Wei Cui, Xu Zhang. 
 
 
 demo.m  
