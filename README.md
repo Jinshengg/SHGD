@@ -21,6 +21,7 @@ PGD.m
 PGD algorithm, 1D case
 
 FIHT.m 
+
  FIHT algorithm, 1D case
 
 generate_signal_1D.m
