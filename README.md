@@ -9,7 +9,7 @@ Show some experiments in our paper.
 ### Phase transitions  
 ![](fig/pst.png)
 ###  Time comparisons
-![](fig/Time comparisons.png) 
+![](fig/Time_comparisons.png) 
 ### Robust recovery  
 
 ## Citation
