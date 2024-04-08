@@ -91,11 +91,15 @@ end
    
     %% Spectral initialization via Lanczos algorithm
     [U0, Sigma0, V0] = svds(@(v,tflag)HankelVecMul_2D(y/p, v, tflag, p1,p2,q1,q2,ind1,ind2,ind3,ind4), [l1, l2], r);   
+    % From SVD to Takagi factorization.
+    % Refer to equation (5) and (7) in  "Singular value decompossition for the Takagi factorization of symmetric matrices", Alexander M. Chebotarev,  Alexander E. 
+    % Apply fast computation version supposing singular values are different.
     U = zeros(l1,r); 
      for i=1:r
         U(:,i)=sqrt(U0(:,i)'*conj(V0(:,i)))*U0(:,i);
      end
      Z=U*sqrt(Sigma0);  
+     
      mu=sqrt(2*max(sum(abs(U0).^2,2)));
      sqrtsigma=sqrt(max(Sigma0,[],'all'));
     
