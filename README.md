@@ -23,9 +23,9 @@ If you find this code useful for your research, please consider citing:
   journal={IEEE Transactions on Signal Processing}, 
   title={Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization}, 
   year={2024},
-  volume={},
+  volume={72},
   number={},
-  pages={1-16},
+  pages={1590-1606},
   keywords={Symmetric matrices;Compressed sensing;Matrix decomposition;Sparse matrices;Costs;Gradient methods;Convergence;Spectral compressed sensing;Hankel matrix completion;symmetric matrix factorization},
   doi={10.1109/TSP.2024.3378004}}
 ```
