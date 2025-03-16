@@ -1,4 +1,4 @@
-# Symmetric Hankel projected gradient descent (SHGD)
+# Symmetric Hankel gradient descent (SHGD)
 
 This is the code for "Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization" by Jinsheng Li, Wei Cui, Xu Zhang, 
 in IEEE Transactions on Signal Processing, doi: 10.1109/TSP.2024.3378004, [arxiv](https://arxiv.org/abs/2403.09031).
